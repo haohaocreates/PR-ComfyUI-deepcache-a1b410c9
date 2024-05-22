@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-deepcache"
+description = "This extension provides nodes for [a/DeepCache: Accelerating Diffusion Models for Free](https://arxiv.org/abs/2312.00858)\nNOTE:Original code can be found [a/here](https://gist.github.com/laksjdjf/435c512bc19636e9c9af4ee7bea9eb86). Full credit to laksjdjf for sharing the code. "
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/styler00dollar/ComfyUI-deepcache"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-deepcache"
+Icon = ""
